@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+}
+
+.register{
+    width: 25%;
+    height: 75vh;
+    background-color: white;
+    margin: auto;
+    padding-top: 10%;
+    border-radius: 20px;
+}
+
+.bg-gray{
+    background-color: rgb(4, 4, 51);
+}

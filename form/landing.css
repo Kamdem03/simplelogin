@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+}
+.one{
+    font-weight: 500m;
+    font-size: 2rem;
+}
+.lorem{
+    margin-top: 20%;
+    font-size: 1.5rem;
+    font-weight: 200;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

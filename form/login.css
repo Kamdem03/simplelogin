@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+}
+.log{
+    width: 25%;
+    margin: auto;
+    height: 75vh;
+    background-color: white;
+    border-radius: 20px;
+
+}
+
+.bg-gray{
+    background-color: rgb(4, 4, 51);
+}
+
+.btn{
+   
+}
